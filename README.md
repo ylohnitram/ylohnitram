@@ -55,7 +55,7 @@ A linter for n8n workflows with security analysis, performance optimization, and
 I'm always interested in discussing automation, DevOps practices, and developer tooling.
 
 - 💼 LinkedIn: [Martin Holy](https://linkedin.com/in/ylohnitram)
-- 🌐 Website: [martinsykora.cz](https://martin-holy.online)
+- 🌐 Website: [martin-holy.online](https://martin-holy.online)
 - 📧 Email: ylohnitram@gmail.com
 
 ---
