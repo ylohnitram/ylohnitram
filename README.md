@@ -48,13 +48,7 @@ Senior automation engineer passionate about building developer tools and optimiz
 ## 🎯 Featured Projects
 
 ### [FlowLint](https://flowlint.dev)
-Web-based linter for n8n workflows with security analysis, performance optimization, and best practices validation.
-
-### Multi-LLM Orchestrator
-Python-based system coordinating architect, coder, and reviewer agents for structured software development.
-
-### Automation Portfolio
-Collection of workflow automation solutions for enterprise and banking environments.
+A linter for n8n workflows with security analysis, performance optimization, and best practices validation.
 
 ## 📫 Let's Connect
 
