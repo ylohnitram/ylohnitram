@@ -21,8 +21,6 @@ Senior automation engineer passionate about building developer tools and optimiz
 
 **Currently working on:**
 - 🔧 **FlowLint** - Static analysis tool for n8n workflows
-- 🤖 **Multi-LLM Orchestrator** - AI-powered development workflow system
-- ⚙️ **Process Automation** - Banking & enterprise solutions
 
 ## 💻 Tech Stack
 
