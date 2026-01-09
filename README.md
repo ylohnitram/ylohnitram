@@ -33,16 +33,6 @@ Senior automation engineer passionate about building developer tools and optimiz
 **Specializations:**  
 `Workflow Orchestration` `API Integration` `Release Management` `Banking Systems`
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ylohnitram&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ylohnitram&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
 ## 🎯 Featured Projects
 
 ### [FlowLint](https://flowlint.dev)
