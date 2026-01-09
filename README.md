@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Martin
 
-**Release Orchestration & Automation Engineer**  
+**DevOps & Software Engineer & Automation Engineer**  
 17+ Years of IT Experience | DevOps | Workflow Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ylohnitram)
@@ -32,6 +32,12 @@ Senior automation engineer passionate about building developer tools and optimiz
 
 **Specializations:**  
 `Workflow Orchestration` `API Integration` `Release Management` `Banking Systems`
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ylohnitram&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
 ## 🎯 Featured Projects
 
