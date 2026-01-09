@@ -36,20 +36,19 @@ I'm a full-stack software engineer and automation specialist based in Prague, Cz
 
 **Languages**: TypeScript, JavaScript, Python, Bash, SQL  
 **Platforms**: n8n, Node.js, Docker, Kubernetes  
-**Cloud**: AWS (AWS CDK with Typescript)
-**Tools**: Git, GitHub Actions, VS Code, Linux (Fedora), Terraform
+**Cloud**: AWS (AWS CDK with Typescript)  
+**Tools**: Git, GitHub Actions, VS Code, PyCharm, Linux (Fedora), Terraform, SonarQube
 
 ### 🌱 Currently Learning
 
-- Python
+- Python3
 - Terraform and Infrastructure as Code
 - Kubernetes deployment patterns
 
 ### 👯 Open for Collaboration
 
 I'm interested in collaborating on:
-- **Ruby on Rails** projects
-- **Python** applications and tools
+- **Python** projects
 - n8n workflows and automation projects
 - Open-source tools for developers
 - DevOps and infrastructure solutions
