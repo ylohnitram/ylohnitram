@@ -19,7 +19,9 @@
 
 I'm a full-stack software engineer and automation specialist based in Prague, Czech Republic. I'm passionate about workflow automation, open-source development, and building tools that help developers work more efficiently.
 
-### 🔭 What I'm Working On
+**Currently working on:**
+- 🔧 **FlowLint** - Static analysis tool for n8n workflows
+- 🤖 **[Ralph Platform](https://github.com/Replikanti/ralph-platform)** - Digital labor automation platform
 
 - **[FlowLint](https://flowlint.dev)** - An open-source static analysis suite for n8n workflows that helps teams catch security, reliability, and performance issues before they reach production
 - Building automation solutions and contributing to the n8n ecosystem
