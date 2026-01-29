@@ -21,6 +21,7 @@ Senior automation engineer passionate about building developer tools and optimiz
 
 **Currently working on:**
 - 🔧 **FlowLint** - Static analysis tool for n8n workflows
+- 🤖 **[Ralph Platform](https://github.com/Replikanti/ralph-platform)** - Digital labor automation platform
 
 ## 💻 Tech Stack
 
