@@ -21,6 +21,7 @@ I'm a software engineer based in Prague, Czech Republic. I'm passionate about AI
 
 **Currently working on:**
 - 🧠 **[Agentis](https://github.com/Replikanti/agentis)** - A domain-specific language and runtime for AI agent development and orchestration
+- 🤖 **[Ralph Platform](https://github.com/Replikanti/ralph-platform)** - Digital labor automation platform
 - 🔧 **[FlowLint](https://flowlint.dev)** - Static analysis for n8n workflows
 
 ### 💼 Professional Focus
