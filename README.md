@@ -35,7 +35,7 @@ I'm a software engineer based in Prague, Czech Republic. I'm passionate about AI
 
 **Languages**: Rust, TypeScript, JavaScript, Python, Bash, SQL  
 **Platforms**: Node.js, AWS  
-**Tools**: Git, GitHub Actions, VS Code, Linux (Fedora)
+**Tools**: Git, GitHub Actions, Vim, Claude Code, Linux (Fedora)
 
 ### 🌱 Currently Learning
 
