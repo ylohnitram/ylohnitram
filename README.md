@@ -28,15 +28,14 @@ I'm a software engineer based in Prague, Czech Republic. I'm passionate about AI
 
 - **AI-Native Development**: Designing languages, runtimes, and tooling for AI agent systems
 - **Full-Stack Development**: TypeScript, Node.js, Rust
-- **DevOps & Cloud**: Docker, Terraform, AWS
+- **Cloud**: AWS
 - **Open Source**: Active contributor and maintainer
 
 ### 🛠️ Tech Stack
 
-**Languages**: TypeScript, JavaScript, Rust, Python, Bash, SQL
-**Platforms**: Node.js, Docker, Kubernetes
-**Cloud**: AWS (AWS CDK with Typescript)
-**Tools**: Git, GitHub Actions, VS Code, Linux (Fedora), Terraform
+**Languages**: Rust, TypeScript, JavaScript, Python, Bash, SQL  
+**Platforms**: Node.js, AWS  
+**Tools**: Git, GitHub Actions, VS Code, Linux (Fedora)
 
 ### 🌱 Currently Learning
 
