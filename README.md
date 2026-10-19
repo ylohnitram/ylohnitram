@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Mail-ylohnitram%40gmail.com-1e2329?style=flat-square&logo=gmail&logoColor=white)](mailto:ylohnitram@gmail.com)
 [![MIE](https://img.shields.io/badge/MIE-BTC_research-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](https://github.com/Replikanti/mie)
 [![Agentis](https://img.shields.io/badge/Agentis-agent_runtime-0ecb81?style=flat-square)](https://github.com/Replikanti/agentis)
-![Profile Views](https://komarev.com/ghpvc/?username=ylohnitram&label=views&color=1e2329&style=flat-square)
 
 </div>
 
