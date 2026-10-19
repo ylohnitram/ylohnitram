@@ -17,13 +17,14 @@ Autonomous Agents | Agent Federations | AI-Native Engineering
 
 ## 🚀 About Me
 
-I design and build systems where **AI agents do real engineering work** — not demos. Based in Prague, working remotely. My current work spans an open-core agent platform written in Rust, autonomous agent federations that take GitHub issues all the way to merged pull requests, and AI-driven security research on Web3 audit platforms.
+I design and build systems where **AI agents do real engineering work** — not demos. Based in Prague, working remotely. My current work spans an open-core agent platform written in Rust, autonomous agent federations that take GitHub issues all the way to merged pull requests, a deterministic market-intelligence engine for BTC, and AI-driven security research on Web3 audit platforms.
 
 Before going all-in on agents I spent 15+ years in deployment automation, DevOps and platform engineering — that operational discipline is what keeps my agent systems production-grade.
 
 **Currently building:**
 - 🧠 **[Agentis](https://github.com/Replikanti/agentis)** — Open-core platform for autonomous agents: a Rust runtime, an agent DSL, and an evolution engine with capability-based security and cognitive budgets
 - 🐜 **[Agentis Colonies](https://github.com/Replikanti/agentis-colonies)** — Ready-to-run agent federations under Apache 2.0: an autonomous development colony that takes issues to merged PRs, protocol monitoring, and security research colonies
+- 📈 **[MIE](https://github.com/Replikanti/mie)** — Market Intelligence Engine for the BTCUSDT perpetual, written in Rust: a deterministic research machine that maps market state and regime, measures conditional behavior, and only then discovers and validates strategies; agents are research operators, never the source of numerical truth
 - 🖥️ **[flat-cyborg](https://github.com/Replikanti/flat-cyborg)** — PTY wrapper for driving LLM CLIs (Claude Code and others) from scripts and daemons, written in Rust
 - 🕵️ **[dark-factory](https://github.com/Replikanti/agentis-colonies/tree/main/dark-factory)** — Autonomous Web3 security research federation: invariant fuzzing, symbolic execution (Halmos), fork-state verification; active on Immunefi and Sherlock
 - 📊 **[sdlc-bench](https://github.com/Replikanti/sdlc-bench)** — Benchmark harness measuring the cheapest (model, effort) tier per engineering task class
@@ -34,6 +35,7 @@ Before going all-in on agents I spent 15+ years in deployment automation, DevOps
 
 - **Agent Platforms**: Languages, runtimes, and tooling for autonomous agent systems
 - **AI-Driven SDLC**: Multi-agent "factories" automating the software delivery lifecycle end to end
+- **Market Intelligence**: Deterministic, replayable market research where data, not models, decides what carries edge
 - **Security Research**: Autonomous bug-hunting agents competing in Web3 audit contests
 
 ### 🛠️ Tech Stack
