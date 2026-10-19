@@ -10,8 +10,6 @@ BTC Market Intelligence | Web3 Security Research | Agent Harnesses & Federations
 [![MIE](https://img.shields.io/badge/MIE-Explore-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/Replikanti/mie)
 [![Agentis](https://img.shields.io/badge/Agentis-Explore-orange?style=for-the-badge)](https://github.com/Replikanti/agentis)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ylohnitram&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
